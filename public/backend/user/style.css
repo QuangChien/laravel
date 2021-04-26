@@ -1,0 +1,15 @@
+#avatar{
+    width: 30%;
+    height: 260px;
+    object-fit: cover;
+}
+
+/* edit */
+.hide-change-pass p, .show-change-pass p{
+    cursor: pointer;
+    display: inline;
+    color: #5cb85c;
+}
+.hide-change-pass p:hover, .show-change-pass p:hover{
+    color: #333;
+}
